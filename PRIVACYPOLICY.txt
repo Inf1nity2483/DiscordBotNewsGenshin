@@ -1,0 +1,6 @@
+Stored Data:
+
+1. Username
+2. User ID
+3. Avatar
+4. Discriminator
